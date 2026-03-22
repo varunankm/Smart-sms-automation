@@ -1,0 +1,12 @@
+
+--- c:\Users\varun\Desktop\itc3rdmobilenumber.xlsx ---
+Keys in first row: ["__EMPTY","V.S.B ENGINEERING COLEEGE, KARUR.","__EMPTY_1","__EMPTY_2","__EMPTY_3","__EMPTY_4","__EMPTY_5","__EMPTY_6"]
+First row data: {"__EMPTY":"","V.S.B ENGINEERING COLEEGE, KARUR.":"DEPARTMENT OF INFORMATION TECHNOLOGY III YEAR IT ","__EMPTY_1":"","__EMPTY_2":"","__EMPTY_3":"","__EMPTY_4":"","__EMPTY_5":"","__EMPTY_6":""}
+
+--- c:\Users\varun\Desktop\Book1.xlsx ---
+Keys in first row: ["__EMPTY","name ","regno","phone","mark 1","mark 2","mark 3","mark 4","mark 5","remarks","__EMPTY_1","__EMPTY_2","__EMPTY_3","__EMPTY_4","__EMPTY_5","__EMPTY_6","__EMPTY_7"]
+First row data: {"__EMPTY":"","name ":"varunan k.m","regno":"922523205172","phone":9566668691,"mark 1":"60","mark 2":70,"mark 3":62,"mark 4":"78","mark 5":"64","remarks":"good","__EMPTY_1":"","__EMPTY_2":"","__EMPTY_3":"","__EMPTY_4":"","__EMPTY_5":"","__EMPTY_6":"","__EMPTY_7":""}
+
+--- c:\Users\varun\Desktop\EXCEL_LEARNING.xlsx ---
+Keys in first row: ["Name","Age","City","Salary","category","__EMPTY","__EMPTY_1"]
+First row data: {"Name":"Anita","Age":63,"City":"Bangalore","Salary":35000,"category":"not eligible","__EMPTY":"","__EMPTY_1":""}
